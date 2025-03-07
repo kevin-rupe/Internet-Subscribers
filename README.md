@@ -77,7 +77,7 @@ GROUP BY s.internet_service;
 |None|572|1130|427|
 
 
-
+## Supporting Documentation
 #### Web Sources
 
 Aryan Gupta. (2023, February 27). An Introduction to SQL CASE Statement. Retrieved June 11,
